@@ -1,0 +1,14 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "Newbie Exercise",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estevez Ben Lajamin",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
